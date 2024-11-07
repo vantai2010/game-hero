@@ -1,0 +1,36 @@
+/Assets/Free 2D Animated Vector Game Character Sprites
+
+# Th? m?c t?m c?a Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Metadata
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE Specific
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio Code
+.vscode/
+
+# Các file h? th?ng
+.DS_Store
+Thumbs.db
